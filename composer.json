@@ -1,0 +1,17 @@
+{
+    "name": "michael/terminal",
+    "authors": [
+        {
+            "name": "Michael Leach",
+            "email": "michaell@magmadigital.co.uk"
+        }
+    ],
+    "require-dev": {
+      "phpunit/phpunit": "5.5.*"
+    },
+    "autoload": {
+        "psr-4": {
+          "": "src/"
+        }
+    }
+}
